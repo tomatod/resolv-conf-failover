@@ -8,7 +8,7 @@ import dns.resolver
 import sys
 from os import path
 
-RESOLV_FAILOVER_CONFIG_NAME = "resolv-failover-config.yml"
+RESOLV_FAILOVER_CONFIG_NAME = "resolv-conf-failover-config.yml"
 
 def get_config():
     return resolv_failover_config()
