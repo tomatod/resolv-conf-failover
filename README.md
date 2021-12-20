@@ -26,8 +26,6 @@ cd resolv-conf-failover
 sudo python3 resolv-conf-failover.py
 ```
 
-- If you use binary, please download from release in this repository.
-
 - If you build binary, please run next command.
 ```
 git clone https://github.com/tomatod/resolv-conf-failover
