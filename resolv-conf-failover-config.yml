@@ -1,0 +1,8 @@
+resolv_conf_path: "/etc/resolv.conf"
+ping_dns_names:
+    - "example.com"
+    - "www.google.com"
+    - "www.yahoo.com"
+health_check_interval: 5
+retry_interval: 1
+log_level: "info"
